@@ -1,0 +1,14 @@
+text	cleaned	polarity	subjectivity	sentiment	neg	neu	pos	compound
+0  #Apple is eyeing a September 7 launch date for its new iPhone 14!	apple is eyeing september 7 launch date for  its new iPhone 14!	0.136364	0.454545	 neutral	0	1	0	0
+1  The latest Apple Watch Daily News! https://t.co/aB0ssBjF4z #applewatch #apple	The latest Apple Watch Daily News applewatch apple	0.25	0.45	netural	0	1	0	0
+"2 C$19.99 - #FreeShipping | Super sale means super savings!  Topfun Back to School Glitter Banner Apple #Topfun       ?? https://t.co/IiWn59R2Sr       #sharious  #canadianbestseller  #canada #usa #product #Apple  #Back  #Banner  #First  #Garland  #Glitter . https://t.co/zWwdmFCKLS
+Vietnam to make Apple Watch and MacBook for first time ever."	C19.99 - FreeShipping | Super sale means super savings!  Topfun Back to School Glitter Banner Apple Topfun sharious  canadianbestseller canada usa product Apple Back Banner First Garland Vietnam to make Apple Watch and MacBook for first time ever.	0.183333	0.33333	positive	0	0.762	0.238	0.8316
+"3 Vietnam to make Apple Watch and MacBook for first time ever.
+Read more to the link below??
+https://t.co/5Lnm3rhP8P"	Vietnam to make Apple Watch and MacBook for first time ever.	0.375	0.416667	netural	0	1	0	0
+"4 When you need to write Unit Tests but long weekend is about to slide in xD
+#codinghumour #Apple #iOS https://t.co/z0FANHnLcg
+iPhone Price Comparison https://t.co/yYf3dmB4Wt "	When you need to write Unit Tests but long weekend is about to slide in xD codinghumour Apple iOS iPhone Price Comparison	-0.05	0.4	positive	0	0.776	0.224	0.7351
+								
+								
+								

@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Besley:wght@400;500&family=Timmana&display=swap');
+
+.carousel-caption {
+    transform: translateY(-50%);
+    top: 50%;
+    bottom: initial;
+}
+
+
+.report-text{
+    text-align: center;
+    font-size:30px
+}
+
+.bg-nav{
+    background: #21228bd5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #493e71, #2b7645);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4c3990, #0cf633); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.mt-100{
+    margin-top: 100px;
+}
+.mt-300{
+    margin-top: 300px;
+}
+.carousel-item .item {
+  height: 100px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 100px;
+}
+
